@@ -1,0 +1,17 @@
+{
+  "movie_count": 2000,
+  "detail_pages": 2000,
+  "category_counts": {
+    "asia-movies": 250,
+    "urban-love": 250,
+    "suspense-crime": 250,
+    "action-adventure": 250,
+    "comedy-family": 250,
+    "fantasy-scifi": 250,
+    "classic-drama": 250,
+    "series-selection": 250
+  },
+  "m3u8_count": 20,
+  "site_title": "精选亚洲电影-精选电影合集-高清影片在线观看",
+  "logo": "精选亚洲电影"
+}
